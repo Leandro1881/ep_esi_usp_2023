@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# ep_esi_usp_2023
+
+# EP ESI USP 2023
 =======
 # README
 [![GitHub Actions Demo](https://github.com/Leandro1881/ep_esi_usp_2023/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Leandro1881/ep_esi_usp_2023/actions/workflows/main.yml)
