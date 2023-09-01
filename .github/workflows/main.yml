@@ -1,0 +1,20 @@
+name: EP_ESI
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run a one-line script
+    - run: echo sucesso
+
+
+  deploy-dev:
+    runs-on: ubuntu-latest
+    environment:  
+      name: dev
+    needs: build
+    steps:
+      - name: Run a one-line sciprt
+      - run: echo sucesso 2
