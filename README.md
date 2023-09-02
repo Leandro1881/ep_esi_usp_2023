@@ -10,6 +10,12 @@
 
 Link do deploy feito no Heroku: https://ep-esi-2023-93e9c4f72f67.herokuapp.com/
 
-A ideia deste EP é implementarmos um sistema de cadastro de produtos de um supermercado, contendo funcionalidades como cadastro e login de usuário, visualização de produtos, cadastro de produtos, etc.
+A ideia deste EP é implementarmos um sistema de cadastro de produtos de supermercados localizados em regiões humildes que não possuem acesso a tecnologia o suficiente para demonstrar virtualmente produtos que estão ou não estão em estoque para a população regional. Neste sistema, haverá funcionalidades como cadastro e login de usuário, visualização de produtos, cadastro de produtos, etc. 
 
 
+Integrantes: 
+Erick Henrique Barbosa Albuquerque - 8539822
+Gustavo Pimentel Soares - 11795961
+Henrique De Mello Pinho Venchiarutti - 12543694
+Leandro Baccarin Costa - 11796166
+Isael Lucas Grob Rocha - 11796764
