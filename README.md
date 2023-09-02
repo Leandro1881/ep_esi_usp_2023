@@ -10,4 +10,6 @@
 
 Link do deploy feito no Heroku: https://ep-esi-2023-93e9c4f72f67.herokuapp.com/
 
+A ideia deste EP é implementarmos um sistema de cadastro de produtos de um supermercado, contendo funcionalidades como cadastro e login de usuário, visualização de produtos, cadastro de produtos, etc.
+
 
